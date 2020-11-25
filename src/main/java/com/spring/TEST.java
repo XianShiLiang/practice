@@ -22,6 +22,7 @@ public class TEST implements Serializable {
 
         person.eat();
         System.out.println(person.toString());
+        System.out.println("hello world");
 
 
     }
